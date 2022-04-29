@@ -32,14 +32,30 @@
             "sandboxes": [
                 "local"
             ],
-            "storage": {}
+            "storage": {
+                "add_subtract_contract.tz": 10,
+                "tacos.tz": 5
+            }
         },
-        "ithicanet": {
+        "ithacanet": {
             "networks": [
-                "ithica_network"
+                "ithaca_network"
             ],
             "sandboxes": [],
-            "storage": {}
+            "storage": {
+                "add_subtract_contract.tz": 10,
+                "tacos.tz": 5 
+            }
+        },
+        "jakartanet": {
+            "networks": [
+                "jakarta_network"
+            ],
+            "sandboxes": [],
+            "storage": {
+                "add_subtract_contract.tz": 10,
+                "tacos.tz": 5
+            }
         }
     },
     "sandbox": {
@@ -73,28 +89,57 @@
             "rpcUrl": "https://rpc.ithacanet.teztnets.xyz",
             "protocol": "Psithaca2MLRFYargivpo7YvUr7wUDqyxrdhC5CQq78mRvimz6A",
             "faucet": {
-                "pkh": "tz1UDVfFG2qorXML1EZsX6xrrfENWsuB13Ki",
+                "pkh": "tz1eWXqVB8PjNTx8Kdq6ji17bP7ECQBuojb9",
                 "mnemonic": [
-                    "dice",
-                    "craft",
-                    "lock",
-                    "ship",
-                    "very",
-                    "stage",
-                    "then",
-                    "detail",
-                    "when",
-                    "trim",
-                    "custom",
-                    "priority",
-                    "midnight",
-                    "dice",
-                    "goose"
+                    "unhappy",
+                    "stomach",
+                    "job",
+                    "suffer",
+                    "move",
+                    "clap",
+                    "tattoo",
+                    "tissue",
+                    "attract",
+                    "april",
+                    "easy",
+                    "saddle",
+                    "explain",
+                    "process",
+                    "wealth"
                 ],
-                "email": "asovmjrm.iuhwrthr@teztnets.xyz",
-                "password": "LTIz1WBRVK",
-                "amount": "84604522868",
-                "activation_code": "98cfc25ceadd4edc50f035efb7ac4e9febdeecbb"
+                "email": "tqdaszay.kezweqwh@teztnets.xyz",
+                "password": "LG94xqFAHs",
+                "amount": "34883364628",
+                "activation_code": "eeb13d4a18567d9d5ef0e73684c115b79859e59a"
+            }
+        },
+        "jakarta_network": {
+            "label": "Jakarta Protocol Testnet",
+            "rpcUrl": "https://rpc.jakartanet.teztnets.xyz",
+            "protocol": "PtJakart2xVj7pYXJBXrqHgd82rdkLey5ZeeGwDgPp9rhQUbSqY",
+            "faucet": {
+                "pkh": "tz1V8XZpmFrq3baCTr8v8Wng4muqJrLBBp8J",
+                "mnemonic": [
+                    "gap",
+                    "rate",
+                    "grain",
+                    "approve",
+                    "scheme",
+                    "rude",
+                    "nominee",
+                    "empower",
+                    "boil",
+                    "often",
+                    "soft",
+                    "aunt",
+                    "crane",
+                    "raise",
+                    "cricket"
+                ],
+                "email": "atuaecgr.rvolemml@teztnets.xyz",
+                "password": "eMKUhZY9eE",
+                "amount": "18821582842",
+                "activation_code": "a8ed211c9bd6ca0b7bcaeb047ba90740e9f94396"
             }
         }
     }
