@@ -1,0 +1,101 @@
+{
+    "language": "en",
+    "plugins": [
+        {
+            "name": "@taqueria/plugin-ligo",
+            "type": "npm"
+        },
+        {
+            "name": "@taqueria/plugin-flextesa",
+            "type": "npm"
+        },
+        {
+            "name": "@taqueria/plugin-taquito",
+            "type": "npm"
+        },
+        {
+            "name": "@taqueria/plugin-tezos-client",
+            "type": "npm"
+        },
+        {
+            "name": "@taqueria/plugin-contract-types",
+            "type": "npm"
+        }
+    ],
+    "contractsDir": "contracts",
+    "testsDir": "tests",
+    "artifactsDir": "artifacts",
+    "environment": {
+        "default": "sandbox",
+        "sandbox": {
+            "networks": [],
+            "sandboxes": [
+                "local"
+            ],
+            "storage": {}
+        },
+        "ithicanet": {
+            "networks": [
+                "ithica_network"
+            ],
+            "sandboxes": [],
+            "storage": {}
+        }
+    },
+    "sandbox": {
+        "local": {
+            "accounts": {
+                "default": "bob",
+                "bob": {
+                    "initialBalance": "3000000000"
+                },
+                "alice": {
+                    "initialBalance": "2000000000"
+                },
+                "john": {
+                    "initialBalance": "4000000000"
+                },
+                "jane": {
+                    "initialBalance": "5000000000"
+                },
+                "joe": {
+                    "initialBalance": "1000000000"
+                }
+            },
+            "label": "Local Tezos Sandbox",
+            "protocol": "PtHangz2aRngywmSRGGvrcTyMbbdpWdpFKuS4uMWxg2RaH9i1qx",
+            "rpcUrl": "http://localhost:20000"
+        }
+    },
+    "network": {
+        "ithaca_network": {
+            "label": "Ithaca Protocol Testnet",
+            "rpcUrl": "https://rpc.ithacanet.teztnets.xyz",
+            "protocol": "Psithaca2MLRFYargivpo7YvUr7wUDqyxrdhC5CQq78mRvimz6A",
+            "faucet": {
+                "pkh": "tz1UDVfFG2qorXML1EZsX6xrrfENWsuB13Ki",
+                "mnemonic": [
+                    "dice",
+                    "craft",
+                    "lock",
+                    "ship",
+                    "very",
+                    "stage",
+                    "then",
+                    "detail",
+                    "when",
+                    "trim",
+                    "custom",
+                    "priority",
+                    "midnight",
+                    "dice",
+                    "goose"
+                ],
+                "email": "asovmjrm.iuhwrthr@teztnets.xyz",
+                "password": "LTIz1WBRVK",
+                "amount": "84604522868",
+                "activation_code": "98cfc25ceadd4edc50f035efb7ac4e9febdeecbb"
+            }
+        }
+    }
+}
