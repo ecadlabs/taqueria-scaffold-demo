@@ -16,7 +16,6 @@
     "@taqueria/plugin-contract-types": "^0.2.1",
     "@taqueria/plugin-flextesa": "^0.2.1",
     "@taqueria/plugin-ligo": "^0.2.1",
-    "@taqueria/plugin-taquito": "^0.2.1",
-    "@taqueria/plugin-tezos-client": "^0.0.0-pr-618-39b0a4b4"
+    "@taqueria/plugin-taquito": "^0.2.1"
   }
 }
