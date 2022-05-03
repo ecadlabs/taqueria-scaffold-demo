@@ -30,7 +30,8 @@
             ],
             "storage": {
                 "add_subtract_contract.tz": 10,
-                "hello-tacos.tz": 5
+                "hello-tacos.tz": 5,
+                "example.tz": 55
             }
         },
         "ithacanet": {
@@ -40,7 +41,8 @@
             "sandboxes": [],
             "storage": {
                 "add_subtract_contract.tz": 10,
-                "hello-tacos.tz": 5
+                "hello-tacos.tz": 5,
+                "example.tz": 55
             }
         },
         "jakartanet": {
@@ -50,7 +52,8 @@
             "sandboxes": [],
             "storage": {
                 "add_subtract_contract.tz": 10,
-                "tacos.tz": 5
+                "tacos.tz": 5,
+                "example.tz": 55
             }
         },
         "all": {
@@ -63,9 +66,10 @@
             ],
             "storage": {
                 "add_subtract_contract.tz": 10,
-                "hello-tacos.tz": 11
+                "hello-tacos.tz": 11,
+                "example.tz": 55
             }
-            
+
         }
     },
     "sandbox": {
@@ -73,53 +77,23 @@
             "accounts": {
                 "default": "bob",
                 "bob": {
-                    "initialBalance": "3000000000",
-                    "keys": {
-                        "alias": "bob",
-                        "encryptedKey": "edpkurPsQ8eUApnLUJ9ZPDvu98E8VNj4KtJa1aZr16Cr5ow5VHKnz4",
-                        "publicKeyHash": "tz1aSkwEot3L2kmUvcoxzjMomb9mvBNuzFK6",
-                        "secretKey": "unencrypted:edsk3RFfvaFaxbHx8BMtEW1rKQcPtDML3LXjNqMNLCzC3wLC1bWbAt"
-                    }
+                    "initialBalance": "3000000000"
                 },
                 "alice": {
-                    "initialBalance": "2000000000",
-                    "keys": {
-                        "alias": "alice",
-                        "encryptedKey": "edpkvGfYw3LyB1UcCahKQk4rF2tvbMUk8GFiTuMjL75uGXrpvKXhjn",
-                        "publicKeyHash": "tz1VSUr8wwNhLAzempoch5d6hLRiTh8Cjcjb",
-                        "secretKey": "unencrypted:edsk3QoqBuvdamxouPhin7swCvkQNgq4jP5KZPbwWNnwdZpSpJiEbq"
-                    }
+                    "initialBalance": "2000000000"
                 },
                 "john": {
-                    "initialBalance": "4000000000",
-                    "keys": {
-                        "alias": "john",
-                        "encryptedKey": "edpktt6t2ENhxiQqun6bXPPWC6tFVvNPTDRh1gEPGX4BgDgbDnmGzP",
-                        "publicKeyHash": "tz1Zwoh1QCVAvJ4sVTojMp9pLYp6Ji4NoZy6",
-                        "secretKey": "unencrypted:edsk3Un2KRUUoWZufi914HQem96ejVFnkyD8GXRPUSkgqy5etsYXEN"
-                    }
+                    "initialBalance": "4000000000"
                 },
                 "jane": {
-                    "initialBalance": "5000000000",
-                    "keys": {
-                        "alias": "jane",
-                        "encryptedKey": "edpkvS6TDSWcqqj3EJi3NRrCMyN7oNw1B3Hp37R19tMThqM8YNhAuS",
-                        "publicKeyHash": "tz1aHUAC4oviwJuZF1EvVSvFz7cu9KMNYBph",
-                        "secretKey": "unencrypted:edsk3UkdS1UBfTBkMAoFxmfdmUHmCdNhTzDJ1cSJuZhU1b6k6fZZoQ"
-                    }
+                    "initialBalance": "5000000000"
                 },
                 "joe": {
-                    "initialBalance": "1000000000",
-                    "keys": {
-                        "alias": "joe",
-                        "encryptedKey": "edpkuT1QYPYbLLQz9dXhQS33ncsixxeGHbNGmntPTR4VBbWmskHPrV",
-                        "publicKeyHash": "tz1MVGjgD1YtAPwohsSfk8i3ZiT1yEGM2YXB",
-                        "secretKey": "unencrypted:edsk3Un2FU9Zeb4KEoATWdpAqcX5JArMUj2ew8S4SuzhPRDmGoqNx2"
-                    }
+                    "initialBalance": "1000000000"
                 }
             },
             "label": "Local Tezos Sandbox",
-            "protocol": "PtHangz2aRngywmSRGGvrcTyMbbdpWdpFKuS4uMWxg2RaH9i1qx",
+            "protocol": "Psithaca2MLRFYargivpo7YvUr7wUDqyxrdhC5CQq78mRvimz6A",
             "rpcUrl": "http://localhost:20000"
         }
     },
