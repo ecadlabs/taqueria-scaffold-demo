@@ -126,3 +126,5 @@ dist
 .yarn/install-state.gz
 .pnp.*
 .taq/state.json
+.DS_Store
+artifacts/hello-tacos.tz
