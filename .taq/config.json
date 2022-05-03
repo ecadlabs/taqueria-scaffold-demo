@@ -12,10 +12,6 @@
         {
             "name": "@taqueria/plugin-taquito",
             "type": "npm"
-        },
-        {
-            "name": "@taqueria/plugin-contract-types",
-            "type": "npm"
         }
     ],
     "contractsDir": "contracts",
@@ -69,7 +65,6 @@
                 "hello-tacos.tz": 11,
                 "example.tz": 55
             }
-
         }
     },
     "sandbox": {
@@ -157,16 +152,7 @@
             }
         }
     },
-    "configFile": {
-        "value": "/Users/houstonkrohman/code/taqueria-scaffold-demo/.taq/config.json"
-    },
     "configDir": {
         "value": "./.taq"
-    },
-    "projectDir": {
-        "value": "/Users/houstonkrohman/code/taqueria-scaffold-demo"
-    },
-    "hash": {
-        "value": "8f91264cdc4098c7fa2b2d6be1453dda183fd30f171735827609fe0cba500503"
     }
 }

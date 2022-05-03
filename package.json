@@ -13,7 +13,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@taqueria/plugin-contract-types": "^0.2.1",
     "@taqueria/plugin-flextesa": "^0.2.1",
     "@taqueria/plugin-ligo": "^0.2.1",
     "@taqueria/plugin-taquito": "^0.2.1"
