@@ -30,7 +30,7 @@
             ],
             "storage": {
                 "add_subtract_contract.tz": 10,
-                "tacos.tz": 5
+                "hello-tacos.tz": 5
             }
         },
         "ithacanet": {
@@ -65,6 +65,7 @@
                 "add_subtract_contract.tz": 10,
                 "hello-tacos.tz": 11
             }
+            
         }
     },
     "sandbox": {
