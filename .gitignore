@@ -127,4 +127,4 @@ dist
 .pnp.*
 .taq/state.json
 .DS_Store
-artifacts/hello-tacos.tz
+artifacts/*
