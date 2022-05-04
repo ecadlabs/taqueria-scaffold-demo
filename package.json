@@ -13,9 +13,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@taqueria/plugin-flextesa": "^0.2.1",
-    "@taqueria/plugin-ligo": "^0.2.1",
-    "@taqueria/plugin-taquito": "^0.2.1",
+    "@taqueria/plugin-flextesa": "^0.3.0",
+    "@taqueria/plugin-ligo": "^0.3.0",
+    "@taqueria/plugin-taquito": "^0.3.0",
     "@taqueria/plugin-tezos-client": "^0.3.0"
   }
 }
