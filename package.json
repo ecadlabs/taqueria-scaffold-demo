@@ -15,6 +15,7 @@
   "devDependencies": {
     "@taqueria/plugin-flextesa": "^0.2.1",
     "@taqueria/plugin-ligo": "^0.2.1",
-    "@taqueria/plugin-taquito": "^0.2.1"
+    "@taqueria/plugin-taquito": "^0.2.1",
+    "@taqueria/plugin-tezos-client": "^0.3.0"
   }
 }

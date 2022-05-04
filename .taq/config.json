@@ -12,6 +12,10 @@
         {
             "name": "@taqueria/plugin-taquito",
             "type": "npm"
+        },
+        {
+            "name": "@taqueria/plugin-tezos-client",
+            "type": "npm"
         }
     ],
     "contractsDir": "contracts",
@@ -143,8 +147,5 @@
                 "activation_code": "a8ed211c9bd6ca0b7bcaeb047ba90740e9f94396"
             }
         }
-    },
-    "configDir": {
-        "value": "./.taq"
     }
 }
