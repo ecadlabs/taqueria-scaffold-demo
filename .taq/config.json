@@ -10,11 +10,11 @@
             "type": "npm"
         },
         {
-            "name": "@taqueria/plugin-taquito",
+            "name": "@taqueria/plugin-tezos-client",
             "type": "npm"
         },
         {
-            "name": "@taqueria/plugin-tezos-client",
+            "name": "@taqueria/plugin-taquito",
             "type": "npm"
         }
     ],
@@ -93,59 +93,13 @@
             "label": "Ithaca Protocol Testnet",
             "rpcUrl": "https://ithacanet.ecadinfra.com",
             "protocol": "Psithaca2MLRFYargivpo7YvUr7wUDqyxrdhC5CQq78mRvimz6A",
-            "faucet": {
-                "pkh": "tz1eWXqVB8PjNTx8Kdq6ji17bP7ECQBuojb9",
-                "mnemonic": [
-                    "unhappy",
-                    "stomach",
-                    "job",
-                    "suffer",
-                    "move",
-                    "clap",
-                    "tattoo",
-                    "tissue",
-                    "attract",
-                    "april",
-                    "easy",
-                    "saddle",
-                    "explain",
-                    "process",
-                    "wealth"
-                ],
-                "email": "tqdaszay.kezweqwh@teztnets.xyz",
-                "password": "LG94xqFAHs",
-                "amount": "34883364628",
-                "activation_code": "eeb13d4a18567d9d5ef0e73684c115b79859e59a"
-            }
+            "faucet": {  }
         },
         "jakarta_network": {
             "label": "Jakarta Protocol Testnet",
             "rpcUrl": "https://rpc.jakartanet.teztnets.xyz",
             "protocol": "PtJakart2xVj7pYXJBXrqHgd82rdkLey5ZeeGwDgPp9rhQUbSqY",
-            "faucet": {
-                "pkh": "tz1V8XZpmFrq3baCTr8v8Wng4muqJrLBBp8J",
-                "mnemonic": [
-                    "gap",
-                    "rate",
-                    "grain",
-                    "approve",
-                    "scheme",
-                    "rude",
-                    "nominee",
-                    "empower",
-                    "boil",
-                    "often",
-                    "soft",
-                    "aunt",
-                    "crane",
-                    "raise",
-                    "cricket"
-                ],
-                "email": "atuaecgr.rvolemml@teztnets.xyz",
-                "password": "eMKUhZY9eE",
-                "amount": "18821582842",
-                "activation_code": "a8ed211c9bd6ca0b7bcaeb047ba90740e9f94396"
-            }
+            "faucet": {  }
         }
     }
 }
