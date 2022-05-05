@@ -91,7 +91,7 @@
     "network": {
         "ithaca_network": {
             "label": "Ithaca Protocol Testnet",
-            "rpcUrl": "https://rpc.ithacanet.teztnets.xyz",
+            "rpcUrl": "https://ithacanet.ecadinfra.com",
             "protocol": "Psithaca2MLRFYargivpo7YvUr7wUDqyxrdhC5CQq78mRvimz6A",
             "faucet": {
                 "pkh": "tz1eWXqVB8PjNTx8Kdq6ji17bP7ECQBuojb9",
