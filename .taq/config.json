@@ -93,7 +93,6 @@
             "label": "Ithaca Protocol Testnet",
             "rpcUrl": "https://ithacanet.ecadinfra.com",
             "protocol": "Psithaca2MLRFYargivpo7YvUr7wUDqyxrdhC5CQq78mRvimz6A",
-            "faucet": {  }
         },
         "jakarta_network": {
             "label": "Jakarta Protocol Testnet",
