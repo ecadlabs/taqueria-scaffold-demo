@@ -41,15 +41,15 @@
                 "hello-tacos.tz": 55
             }
         },
-        "jakartanet": {
-            "networks": [
-                // "jakarta_network"
-            ],
-            "sandboxes": [],
-            "storage": {
-                "example.tz": 55
-            }
-        }
+        // "jakartanet": {
+        //     "networks": [
+        //         // "jakarta_network"
+        //     ],
+        //     "sandboxes": [],
+        //     "storage": {
+        //         "example.tz": 55
+        //     }
+        // }
     },
     "sandbox": {
         "local": {
