@@ -93,7 +93,30 @@
             "label": "Jakarta Protocol Testnet",
             "rpcUrl": "https://rpc.jakartanet.teztnets.xyz",
             "protocol": "PtJakart2xVj7pYXJBXrqHgd82rdkLey5ZeeGwDgPp9rhQUbSqY",
-            "faucet": {  }
+            "faucet": {
+                "pkh": "tz1TNuv3PehfZpCqTGdGBAyabviQpgcJMFCC",
+                "mnemonic": [
+                    "furnace",
+                    "vocal",
+                    "cereal",
+                    "interest",
+                    "swallow",
+                    "wood",
+                    "phone",
+                    "scare",
+                    "issue",
+                    "improve",
+                    "deny",
+                    "attract",
+                    "believe",
+                    "zebra",
+                    "security"
+                ],
+                "email": "tnzzzrsf.aketnfwv@teztnets.xyz",
+                "password": "5mlmFyXME4",
+                "amount": "11986133105",
+                "activation_code": "cd2f9ea1c8820e175567bad46a7135f7168321f4"
+            }
         }
     },
     "accounts": {
