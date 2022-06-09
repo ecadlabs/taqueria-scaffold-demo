@@ -49,33 +49,15 @@
             "storage": {
                 "example.tz": 55
             }
-        },
-        "all": {
-            "networks": [
-                "jakarta_network",
-                "ithaca_network"
-            ],
-            "sandboxes": [
-                "local"
-            ],
-            "storage": {
-                "example.tz": 55
-            }
         }
     },
     "sandbox": {
         "local": {
+            "accounts": {},
             "label": "Local Tezos Sandbox",
             "protocol": "Psithaca2MLRFYargivpo7YvUr7wUDqyxrdhC5CQq78mRvimz6A",
             "rpcUrl": "http://localhost:20000"
         }
-    },
-    "accounts": {
-        "bob": "3_000_000_000",
-        "alice": "3_000_000_000",
-        "john": "3_000_000_000",
-        "jane": "3_000_000_000",
-        "joe": "3_000_000_000"
     },
     "network": {
         "ithaca_network": {
@@ -113,5 +95,12 @@
             "protocol": "PtJakart2xVj7pYXJBXrqHgd82rdkLey5ZeeGwDgPp9rhQUbSqY",
             "faucet": {  }
         }
+    },
+    "accounts": {
+        "bob": "3_000_000_000",
+        "alice": "3_000_000_000",
+        "john": "3_000_000_000",
+        "jane": "3_000_000_000",
+        "joe": "3_000_000_000"
     }
 }
