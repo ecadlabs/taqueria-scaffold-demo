@@ -29,7 +29,7 @@
                 "local"
             ],
             "storage": {
-                "example.tz": 55
+                "example.tz": 42
             }
         },
         "ithacanet": {
@@ -38,7 +38,7 @@
             ],
             "sandboxes": [],
             "storage": {
-                "hello-tacos.tz": 55
+                "hello-tacos.tz": 42
             }
         },
         "jakartanet": {
@@ -47,7 +47,7 @@
             ],
             "sandboxes": [],
             "storage": {
-                "example.tz": 55
+                "example.tz": 42
             }
         },
         "all": {
@@ -59,7 +59,7 @@
                 "local"
             ],
             "storage": {
-                "example.tz": 55
+                "example.tz": 42
             }
         }
     },
