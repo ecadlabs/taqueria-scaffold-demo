@@ -128,3 +128,4 @@ dist
 .taq/state.json
 .DS_Store
 artifacts/*
+.taq/development-state.json
