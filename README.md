@@ -26,14 +26,8 @@ You will need to add faucet keys for whichever network you want to use. To do th
 ```json
     "network": {
         "ithaca_network": {
-            "label": "Ithaca Protocol Testnet",
-            "rpcUrl": "https://ithacanet.ecadinfra.com",
-            "protocol": "Psithaca2MLRFYargivpo7YvUr7wUDqyxrdhC5CQq78mRvimz6A",
-            "faucet": {  }
-        },
-        "jakarta_network": {
-            "label": "Jakarta Protocol Testnet",
-            "rpcUrl": "https://rpc.jakartanet.teztnets.xyz",
+            "label": "Ghostnet Testnet",
+            "rpcUrl": "https://ghostnet.ecadinfra.com",
             "protocol": "PtJakart2xVj7pYXJBXrqHgd82rdkLey5ZeeGwDgPp9rhQUbSqY",
             "faucet": {  }
         }
