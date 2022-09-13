@@ -1,0 +1,2 @@
+#include "example.jsligo"
+const storage: int = 42
