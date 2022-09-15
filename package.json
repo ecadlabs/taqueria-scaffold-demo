@@ -1,7 +1,7 @@
 {
   "name": "taqueria-scaffold-ks",
   "version": "1.0.0",
-  "description": "",
+  "description": "A demo Taqueria project that comes with mutliple plugins installed, a local and testnet environment config, and a LIGO source contract",
   "main": "index.js",
   "directories": {
     "test": "tests"
@@ -14,10 +14,18 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@taqueria/plugin-contract-types": "latest",
-    "@taqueria/plugin-flextesa": "latest",
-    "@taqueria/plugin-ligo": "latest",
-    "@taqueria/plugin-taquito": "latest",
-    "@taqueria/plugin-tezos-client": "latest"
-  }
+    "@taqueria/plugin-contract-types": "^0.16.0",
+    "@taqueria/plugin-flextesa": "^0.16.0",
+    "@taqueria/plugin-ligo": "^0.16.0",
+    "@taqueria/plugin-taquito": "^0.16.0",
+    "@taqueria/plugin-tezos-client": "^0.16.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecadlabs/taqueria-scaffold-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ecadlabs/taqueria-scaffold-demo/issues"
+  },
+  "homepage": "https://github.com/ecadlabs/taqueria-scaffold-demo#readme"
 }
